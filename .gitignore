@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/SonsDeMemes/bin/Debug/net8.0-windows
+/.vs/SonsDeMemes/CopilotIndices/17.12.53.23981
+/SonsDeMemes/obj
